@@ -22,12 +22,19 @@
 ## *functions*
 
 **.Add-N**
+
 **.Add-P**
+
 **.Add-Br**
+
 **.Del-Br**
+
 **.List-P**
+
 **.List-Brs**
+
 **.Near-P**
+
 **.Near-Brs**
 
 # *Contacts*
